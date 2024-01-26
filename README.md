@@ -16,7 +16,7 @@ I'm a family man who uses software engineering build practical systems for diver
 - 📖 Cool Open Source Projects
 - 🤖 AI Tech and Impact
 - 💻 Self hosting and data ownership
-- 🤖 Robotics
+- 📟 Robotics and embedded systems 
 - 🎮 Gaming
 - 👑 Anything else that strikes your fancy.
 
